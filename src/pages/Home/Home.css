@@ -1,0 +1,58 @@
+.fullHome{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background: linear-gradient(
+            to bottom,
+            rgba(0, 0, 0, 0.65) 0%,
+            rgba(0, 0, 0, 0) 100%
+    ), url('/src/pages/img/fundo.png')
+}
+.menuHome{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logoBranca{
+    height: 45px;
+    margin-left: 40px;
+}
+.loginButton{
+    height: 40px;
+    padding: 10px 20px;
+    margin-right: 40px;
+    border-radius: 10px;
+    color: rgb(240, 60, 60);
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+}
+.fullSectionHome{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.contentCreateAccount{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 170px auto 0px auto;
+}
+.fastTest{
+    font-size: 8rem;
+    color: aliceblue;
+}
+.buttonCreate{
+    padding: 16px 26px;
+    border-radius: 13px;
+    border: none;
+    color: rgb(255,255,255);
+    font-size: 15px;
+    background: linear-gradient(45deg, rgb(254, 48, 114), rgb(255, 89, 64));
+}

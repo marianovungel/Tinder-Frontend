@@ -1,0 +1,51 @@
+.RegistrarComponent{
+    width: 25%;
+    margin: 40px auto 0px auto;
+}
+.FormCreate{
+    width: 100%;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+    position: relative;
+}
+.titleForm{
+    font-size: 20pt;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.textForm{
+    text-align: center;
+    width: 90%;
+}
+.username{
+    padding: 15px;
+    width: 80%;
+    margin: 15px 0px;
+    border-radius: 7px;
+}
+.criar{
+    width: 90%;
+    border-radius: 20px;
+    font-weight: 800;
+}
+.barra{
+    width: 85%;
+    height: 1px;
+    border: 0.5px solid #666;
+    padding: 0px;
+    background-color: #666;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+.imgIcom{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+}

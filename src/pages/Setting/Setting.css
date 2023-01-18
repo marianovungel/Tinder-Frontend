@@ -1,0 +1,111 @@
+.settingFull{
+    width: 100%;
+}
+.settingMenu{
+    width: 100%;
+    height: 60px;
+    border: none;
+    border-bottom: 1px solid #666;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.imgLogoPreta{
+    height: 45px;
+    margin-left: 40px;
+}
+.createField{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    border: none;
+}
+.sectionSetUser{
+    width: 70%;
+    margin: 40px auto 0px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.dataUser{
+    flex: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.fotoUser{
+    flex: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.fastName{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+
+}
+.fullInput{
+    width: 98%;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px 0px 20px 0px;
+}
+.idade{
+    width: 90%;
+    height: 40px;
+    border: 0.5 solid whitesmoke;
+    font-size: 14pt;
+    border-radius: 10px;
+    margin: 10px 0px 20px 0px;
+}
+.showme{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.showDisplay{
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.inputBox{
+    margin: 20px 0px 20px 0px;
+}
+.submit-button{
+    width: 99%;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.imgObject{
+    width: 100%;
+    border-radius: 20px;
+}
+.inputBottum{
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.buttonMen{
+    border-radius: 5px;
+    padding: 10px 23px;
+    font-weight: 700;
+    margin: 20px 10px 20px 0px;
+    background-color: #fff;
+    
+}
+.selectInput{
+    width: 100%;
+    height: 40px;
+    border: 0.5 solid whitesmoke;
+    font-size: 14pt;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
